@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Github together. Updating for emergency fix after stashing.
+This is a simple website project created only for training purposes to recall Git workflow.
 
 ## Introduction
 
